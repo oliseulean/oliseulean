@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **seulean.olimpiu@gmail.com**
 
-- 📄 Know about my experiences [https://oliseulean.github.io/](https://oliseulean.github.io/)
+- 📄 Know about my experiences [RESUME](https://oliseulean.github.io/Olimpiu_Seulean_Resume_December_2023.pdf)
 
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/seulean-olimpiu/)
 
