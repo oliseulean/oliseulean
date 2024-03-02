@@ -15,6 +15,6 @@
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/seulean-olimpiu/)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oliseulean&show_icons=true&locale=en" alt="oliseulean" style="display: inline;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliseulean" alt="oliseulean" style="display: inline;" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=oliseulean&show_icons=true&locale=en" alt="oliseulean" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=oliseulean" alt="oliseulean" />
 </p>
